@@ -1,0 +1,17 @@
+apiVersion: v2
+appVersion: v1.3.0
+description: A Helm chart for Kubernetes to install jiralert
+home: https://github.com/prometheus-community/jiralert
+keywords:
+- monitoring
+- prometheus
+- alerting
+- jiralert
+maintainers:
+- email: github@jkroepke.de
+  name: jkroepke
+- email: zanhsieh@gmail.com
+  name: zanhsieh
+name: jiralert
+type: application
+version: 1.4.1
